@@ -26,6 +26,7 @@ utilize our [community forum](https://community.alfresco.com/) rather than GitHu
 3) Commit your changes `git commit -am 'Add some feature'`
 4) Push to the branch `git push origin my-new-feature`
 6) Create a new [Pull Request]((https://help.github.com/articles/creating-a-pull-request/))
+7) assign a reviewer from the core team
 
 ### Code Convention
 Please follow [the coding standards](https://community.alfresco.com/docs/DOC-4658-coding-standards).
